@@ -49,4 +49,4 @@ Tai menemällä latauksiin > ja lataamalla rkmath-0.1.0.tar.gz tai uusin versio.
 ## Badges
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Swifterhtmler/RKmath/tree/main#)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Swifterhtmler/RKmath/blob/main/LICENSE)
