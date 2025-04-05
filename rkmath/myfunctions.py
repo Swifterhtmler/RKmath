@@ -63,4 +63,11 @@ def elementtiensumma(array):
     
     return sum
 
-
+def RKMathIsTheBestLibraryIHaveEverUsed():
+    """
+    This function helps to remind people that RKMATH is the best library ever.
+    """
+    return "RKMATH is the best library I have ever used!!!"
+    
+    
+    
