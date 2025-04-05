@@ -1,5 +1,8 @@
+LICENSE
 README.md
 setup.py
+rkmath/__init__.py
+rkmath/myfunctions.py
 rkmath.egg-info/PKG-INFO
 rkmath.egg-info/SOURCES.txt
 rkmath.egg-info/dependency_links.txt

@@ -1,13 +1,15 @@
 Metadata-Version: 2.4
 Name: rkmath
-Version: 0.2.1
+Version: 0.2.5
 Summary: Math library for easy math operations
 Author: Swifterhtmler
 Description-Content-Type: text/markdown
-Requires-Dist: numpy==2.20.0
+License-File: LICENSE
+Requires-Dist: numpy>=1.21.0
 Dynamic: author
 Dynamic: description
 Dynamic: description-content-type
+Dynamic: license-file
 Dynamic: requires-dist
 Dynamic: summary
 
@@ -61,6 +63,5 @@ Tai menemällä latauksiin > ja lataamalla rkmath-0.1.0.tar.gz tai uusin versio.
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Swifterhtmler/Latex-to-Ascii-converter-extension/tree/main?tab=MIT-1-ov-file#)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Swifterhtmler/RKmath/blob/main/LICENSE)
