@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name='rkmath',
     packages=find_packages(include=['rkmath']),
-    version='0.2.7',
+    version='0.2.8',
     description='Math library for easy math operations',
      long_description=long_description,
     long_description_content_type="text/markdown",

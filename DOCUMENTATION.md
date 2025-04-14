@@ -54,6 +54,7 @@ Tai menemällä latauksiin > ja lataamalla rkmath-0.1.0.tar.gz tai uusin versio.
 | `suurinYhteinenTekijä` | returns the biggest common divider |
 | `varianssi`  | returns the variance of an array |
 | `toisen_asteen_lause`  | returns the solved form of quadratic equation |
+| `alkuluku`  | returns prime numbers of a number |
 
 ### Finnish descriptions
 
@@ -73,6 +74,7 @@ Tai menemällä latauksiin > ja lataamalla rkmath-0.1.0.tar.gz tai uusin versio.
 | `suurinYhteinenTekijä` | palauttaa suurimman yhteisen tekijän |
 | `varianssi`  | palauttaa lukujonon varianssin |
 | `toisen_asteen_lause`  | palauttaa toisen asteen yhtälön ratkaisut. |
+| `alkuluku`  | n:n alkuluvut |
 
 
 
