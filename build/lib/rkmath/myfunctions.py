@@ -70,4 +70,31 @@ def RKMathIsTheBestLibraryIHaveEverUsed():
     return "RKMATH is the best library I have ever used!!!"
     
     
+def alkuluku(n):
+    if n < 2:
+        return []
+
+    sieve = [True] * (n + 1)
+    sieve[0:2] = [False, False]
+
+    for i in range(2, int(n**0.5) + 1):
+        if sieve[i]:
+            sieve[i*i:n+1:i] = [False] * len(range(i*i, n+1, i))
+
+    return [i for i, is_prime in enumerate(sieve) if is_prime]
     
+def alkuluvut(n):
+    factors = []
+    divisor = 2
+
+    while n > 1:
+        while n % divisor == 0:
+            factors.append(divisor)
+            n //= divisor
+        divisor += 1
+        if divisor * divisor > n:
+            if n > 1:
+                factors.append(n)
+                break
+
+    return factors    
